@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">mytestapp</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="true_main">True</string>
+    <string name="false_main">False</string>
+    <string name="question">QUESTION NO. 1: Sun rises in the east (True/False) ?</string>
+</resources>
